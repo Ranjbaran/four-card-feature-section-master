@@ -40,29 +40,8 @@ Users should be able to:
 
 
 
-### What I learned
-
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-### Continued development
-
-
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - This helped me for css&html&js reason. I really liked this pattern and will use it going forward.
+- [Example resource 1](https://www.w3schools.com/) - This helped me for css&html&flex reason. I really liked this pattern and will use it going forward.
 
 
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
