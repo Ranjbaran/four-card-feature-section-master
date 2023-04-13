@@ -17,9 +17,13 @@
         max-width: 500px;
         margin: 0 auto;
     }
-    .title{
+    .icon {
+        margin-top: 20px;
+       
+      }
+    /* .title{
         text-align: center;
-    }
+    } */
 }
 @media(max-width:992px) {
     /* .content{
@@ -35,9 +39,7 @@
      .card--karma{
         margin-top: 3rem;
     }
-.content{
-    max-width: 18rem;
-}
+
 }
 @media(max-width:768px){
 /*   
