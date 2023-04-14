@@ -94,6 +94,7 @@ body {
     font-size: 1.3rem;
    font-weight: 400;
     color:#4D4F62;
+    opacity: .5;
     line-height: 23px;
     letter-spacing: 1px;
     /* margin-left: 3.2rem; */
@@ -102,6 +103,7 @@ body {
 
 .icon {
     text-align: right;
+    margin-top: 4rem;
  
 }
 .icon__item{
